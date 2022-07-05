@@ -52,13 +52,50 @@ a:hover{
 }
 .first-recipie{
     width: 50%;
-    margin-right: 5%;
-    box-shadow: 10px 10px 40px gray;
+    margin-right: 2%;
+    box-shadow: 5px 5px 25px rgb(199, 197, 197);
     border-radius: 20px;
     padding: 25px;
+}
+.first-recipie:hover{
+    background-color:rgb(50, 50, 194) ;
 }
 .recipie-item{
     width: 100%;
     height: 500px;
     border-radius: 25px;
+}
+.follower{
+    box-shadow: 5px 5px 25px rgb(199, 197, 197);
+    border-radius: 25px;
+    margin-right: 15px;
+}
+.follower h1 {
+    color: black;
+}
+.follower p {
+    color: black;
+}
+.youtube{
+    width: 350px;
+    text-align: center;
+}
+.instagram{
+    width: 350px;
+    text-align: center;
+}
+.dribble{
+    width: 300px;
+    text-align: center;
+}
+.footer{
+    padding: 10px;
+    margin-top: 10%;
+    background-color: black;
+}
+.footer p{
+    color: white;
+}
+footer{
+    text-align: center;
 }
