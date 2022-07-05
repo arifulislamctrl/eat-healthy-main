@@ -49,6 +49,8 @@ p{
 }
 a:hover{
     background-color:rgb(7, 7, 78) ;
+    transition: 0.4s;
+    opacity: 0.9;
 }
 .first-recipie{
     width: 50%;
@@ -59,6 +61,8 @@ a:hover{
 }
 .first-recipie:hover{
     background-color:rgb(50, 50, 194) ;
+    transition: 0.4s;
+    opacity: 0.9;
 }
 .recipie-item{
     width: 100%;
