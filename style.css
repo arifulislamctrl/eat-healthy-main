@@ -52,8 +52,13 @@ a:hover{
 }
 .first-recipie{
     width: 50%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    padding: 25px;
 }
 .recipie-item{
     width: 100%;
     height: 500px;
+    border-radius: 25px;
 }
